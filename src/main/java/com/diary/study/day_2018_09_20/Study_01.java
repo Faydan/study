@@ -3,9 +3,11 @@ package com.diary.study.day_2018_09_20;
 import com.diary.study.day_2018_09_20.entity.People.People;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
+/**
+ * 删除list中指定的元素
+ */
 public class Study_01 {
 
     public static void main(String[] args) {
